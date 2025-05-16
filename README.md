@@ -1,6 +1,6 @@
 # Data_camp_projects
 
-#  Walmart eCommerce Analytics
+#  1 Walmart eCommerce Analytics
 
 ![Walmart eCommerce](images/walmartecomm.jpg)
 
